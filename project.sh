@@ -1,1 +1,1 @@
-echo "This is a sample file for Jenkins learning. Try 5."
+echo "This is a sample file for Jenkins learning. Try 6."
